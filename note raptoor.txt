@@ -1,0 +1,6 @@
+Algoritham to add numbers-
+1.Start
+2.Accept to two number
+3.Perform addition of the two number
+4.Display the result
+5.Stop
