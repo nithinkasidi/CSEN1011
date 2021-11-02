@@ -1,0 +1,5 @@
+algoritam to find wheather a number even or odd
+step1.start
+step2.accept the number 
+step3.divide with number 2,if the remainder is 0 it is even else it is odd
+step4.stop
